@@ -1,4 +1,5 @@
 # Myanmar-Super-Market-Sale-Analysis
+# Jupiter Notebook
 This analysis examine the sale volume based on different segments which include some customer information, product category, etc.
 
 Mainly use Python libraries pandas, numpy, matplotlib, seaborn
